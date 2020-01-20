@@ -229,6 +229,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d93b7656b88d70b499bdb1be31c317f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prop: {fileID: 5265424598734781922, guid: 5e61f10b56f0d3e499ba2f305b45e181, type: 3}
+  xMin: -6.8
+  xMax: 6.8
+  interval: 1.8
 --- !u!4 &87451983
 Transform:
   m_ObjectHideFlags: 0
@@ -782,6 +786,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47678d459517d304ebb4fb6cb3c76132, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  traPlayer: {fileID: 262693317}
+  aniPlayer: {fileID: 262693315}
+  sprPlayer: {fileID: 262693316}
+  speed: 10
 --- !u!1 &490126584
 GameObject:
   m_ObjectHideFlags: 0
@@ -1654,6 +1662,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d93b7656b88d70b499bdb1be31c317f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  prop: {fileID: 210272390087223348, guid: 7a5ad398795529b40b19b74c8a51d27f, type: 3}
+  xMin: -6.8
+  xMax: 6.8
+  interval: 1.5
 --- !u!1 &2031573637
 GameObject:
   m_ObjectHideFlags: 0
