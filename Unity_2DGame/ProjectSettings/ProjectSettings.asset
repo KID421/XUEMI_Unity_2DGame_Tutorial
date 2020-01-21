@@ -12,8 +12,8 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: Unity_2DGame
+  companyName: KID
+  productName: "KID | \u9583\u9583\u5C0F\u6050\u9F8D"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.9339623, g: 0.9339623, b: 0.9339623, a: 1}
@@ -48,8 +48,8 @@ PlayerSettings:
   m_HolographicTrackingLossScreen: {fileID: 0}
   defaultScreenWidth: 1024
   defaultScreenHeight: 768
-  defaultScreenWidthWeb: 960
-  defaultScreenHeightWeb: 600
+  defaultScreenWidthWeb: 1280
+  defaultScreenHeightWeb: 720
   m_StereoRenderingPath: 0
   m_ActiveColorSpace: 0
   m_MTRendering: 1
